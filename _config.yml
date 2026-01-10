@@ -25,7 +25,7 @@ author:
   avatar           : "images/profile.jpeg"
   bio              : "Ph.D. student in Computer Science at Beijing Jiaotong University."
   location         : "Beijing China"
-  employer         : "Beijing Jiaotong University"
+  employer         : "Beijing Jiaotong<br>University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=t6EahAsAAAAJ"
   email            : "thuang@bjtu.edu.cn"

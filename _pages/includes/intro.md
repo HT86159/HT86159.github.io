@@ -1,6 +1,6 @@
 ## About Me
 
-I am currently working on **foundation model safety** and **uncertainty quantification** research. If you are seeking any form of **academic cooperation**, please feel free to email me at [thuangatbjtudotedudotcn].
+I am currently working on **foundation model safety** and **uncertainty quantification** research. If you are seeking any form of **academic cooperation**, please feel free to email me at [thuang[at]bjtu[dot]edu[dot]cn].
 
 I graduated from the [School of Mathematics and Statistics](https://soms.bjtu.edu.cn/index.htm), Beijing Jiaotong University (北京交通大学数学与统计学院), and was directly admitted to the Ph.D. program at the [School of Computer Science and Technology](https://cs.bjtu.edu.cn/index.htm), Beijing Jiaotong University (北京交通大学计算机科学与技术学院), advised by [Liping Jing (景丽萍)](https://faculty.bjtu.edu.cn/8249/). I also collaborate with [Rui Wang (王睿)](https://faculty.bjtu.edu.cn/9588/) and [Huafeng Liu (刘华锋)](https://faculty.bjtu.edu.cn/10087/).
 

@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.01*: 🎉 One paper was accepted by ICLR 2026  
 - *2025.07*: 🎉 One paper was accepted by ICCV 2025  
 - *2025.06*: 🎉 One paper was accepted by IJAR 2025  
 - *2024.02*: 🎉 One paper was accepted by CVPR 2024  

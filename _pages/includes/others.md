@@ -1,8 +1,13 @@
-
+<!-- 
 # 📖 Educations
 - *2023.06 – Present*, Ph.D. Student, School of Computer Science and Technology, Beijing Jiaotong University, Beijing, China  
 - *2019.09 – 2023.06*, B.Sc., School of Mathematics and Statistics, Beijing Jiaotong University, Beijing, China  
-- *2016.09 – 2019.06*, High School Diploma, Mingde High School, Changsha, China
+- *2016.09 – 2019.06*, High School Diploma, Mingde High School, Changsha, China -->
+
+# 📖 Education
+* *2023.09 to Present*, Ph.D. Candidate in Computer Science and Technology, Beijing Jiaotong University, Beijing, China
+* *2019.09 to 2023.06*, B.S. in Mathematics and Applied Mathematics, Beijing Jiaotong University, Beijing, China
+  <!-- * GPA: 3.77/4.0 (Rank: 4/15) -->
 
 <!-- # 💬 Invited Talks
 - *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)

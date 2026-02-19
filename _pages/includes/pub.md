@@ -10,9 +10,13 @@
   </div>
   <div class='paper-box-text' markdown="1">
 
+<span style="font-size: 0.9em;"> 
 [**Detecting Misbehaviors of Large Vision-Language Models by Evidential Uncertainty Quantification**](https://openreview.net/forum?id=xJT4fXJr1Q) 
+</span>
 
+<span style="font-size: 0.8em;"> 
 **Tao Huang**, Rui Wang, Xiaofei Liu, Yi Qin, Li Duan, Liping Jing; | [**Code**](https://github.com/HT86159/EUQ) | [**PDF**](https://openreview.net/forum?id=xJT4fXJr1Q)
+</span>
 ---
 **Efficient Framework**: A training-free method that quantifies uncertainty using pre-logits features in a single forward pass.
 

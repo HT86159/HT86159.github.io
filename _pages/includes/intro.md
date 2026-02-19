@@ -1,4 +1,4 @@
-## About Me
+## 👤 About Me
 My current research interests center on **Trustworthy AI**, specifically focusing on **Uncertainty Quantification** and **Adversarial Robustness**.
 I am open to any form of **academic cooperation**, please feel free to email me at [thuang[at]bjtu[dot]edu[dot]cn].
 

@@ -5,7 +5,7 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICLR 2026</div>
-      <img src='images/euq-lvlm.png' alt="EUQ Framework Illustration" width="100%">
+      <img src='../../images/euq-lvlm.png' alt="EUQ Framework Illustration" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">

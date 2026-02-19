@@ -1,5 +1,5 @@
 <!-- # 📝 Publications -->
-## Selected Publications
+## ⭐Selected Publications
 
 <div class='paper-box'>
   <div class='paper-box-image'>

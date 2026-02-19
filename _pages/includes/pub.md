@@ -10,7 +10,7 @@
   </div>
   <div class='paper-box-text' markdown="1">
 
-<span style="font-size: 2em;"> [**Detecting Misbehaviors of Large Vision-Language Models by Evidential Uncertainty Quantification**](https://openreview.net/forum?id=xJT4fXJr1Q) </span>
+<span style="font-size: 1.5em;"> [**Detecting Misbehaviors of Large Vision-Language Models by Evidential Uncertainty Quantification**](https://openreview.net/forum?id=xJT4fXJr1Q) </span>
 
 <span style="font-size: 0.9em;"> **Tao Huang**, Rui Wang, Xiaofei Liu, Yi Qin, Li Duan, Liping Jing; | [**Code**](https://github.com/HT86159/EUQ) | [**PDF**](https://openreview.net/forum?id=xJT4fXJr1Q)  </span>
 

@@ -1,5 +1,5 @@
 <!-- # 📝 Publications -->
-## ⭐Selected Publications
+## ⭐ Selected Publications
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -12,7 +12,7 @@
 
 <span style="font-size: 1.5em;"> [**Detecting Misbehaviors of Large Vision-Language Models by Evidential Uncertainty Quantification**](https://openreview.net/forum?id=xJT4fXJr1Q) </span>
 
-<span style="font-size: 0.9em;"> **Tao Huang**, Rui Wang, Xiaofei Liu, Yi Qin, Li Duan, Liping Jing; | [**Code**](https://github.com/HT86159/EUQ) | [**PDF**](https://openreview.net/forum?id=xJT4fXJr1Q)  </span>
+<span style="font-size: 0.9em;"> **Tao Huang**, Rui Wang, Xiaofei Liu, Yi Qin, Li Duan, Liping Jing; | [📦**Code**](https://github.com/HT86159/EUQ) | [🤗**Huggingface**](https://huggingface.co/datasets/TerryHWong/Misbehavior-Bench)  </span>
 
 <div style="border-top: 1px solid #eaecef; margin: 15px 0;"></div>
 
